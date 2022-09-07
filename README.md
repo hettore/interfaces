@@ -1,5 +1,8 @@
 # Interfaces
 
+Primeiro commit feito sem o uso de interface e o segundo implementando interface! <br>
+
+
 Uma locadora brasileira de carros cobra um valor por hora para locações de até
 12 horas. Porém, se a duração da locação ultrapassar 12 horas, a locação será
 cobrada com base em um valor diário. Além do valor da locação, é acrescido no
